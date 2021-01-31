@@ -9,10 +9,10 @@ This repository contains the code, reports and module description for the Advanc
 * UNIX OS
 * Designed a relational database for a store.
 * Implemented the following techniquess.
-		* Entity, attributes and relation identification
-		* ER Diagram
-		* Schematization & normalisation of tables
-    * Final Schema
+	* Entity, attributes and relation identification
+	* ER Diagram
+	* Schematization & normalisation of tables
+       	* Final Schema
 
    
 ### Retrieval Evaluation
